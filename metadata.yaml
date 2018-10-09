@@ -1,0 +1,33 @@
+_version: 0.0.1
+covers:
+- cover_type: archival
+  image_path: 42510/42510-h/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Stamatiades, Epameinondas I.
+    aliases:
+    - Stamatiades, E. (Epameinondas)
+    - Σταματιάδης, Επαμεινώνδας
+    - Stamatiadis, Epaminondas
+    birthdate: 1835
+    deathdate: 1901
+    gutenberg_agent_id: '41722'
+    url: http://www.gutenberg.org/2009/agents/41722
+description: ''
+gutenberg_issued: '2013-04-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42510'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Crusades -- Fourth, 1202-1204'
+- !lcsh 'Latin Empire, 1204-1261'
+- !lcc 'DF'
+- GITenberg
+title: Ιστορία της Αλώσεως του Βυζαντίου υπό των Φράγκων και της αυτόθι εξουσίας αυτών
+url: http://www.gutenberg.org/ebooks/42510
