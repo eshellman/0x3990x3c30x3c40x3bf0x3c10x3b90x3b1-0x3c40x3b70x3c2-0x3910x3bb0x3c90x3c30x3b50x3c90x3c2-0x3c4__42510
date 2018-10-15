@@ -1,4 +1,4 @@
-_version: 0.1.0
+_version: 0.1.1
 covers:
 - cover_type: archival
   image_path: 42510/42510-h/images/cover.jpg
@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '41722'
     url: http://www.gutenberg.org/2009/agents/41722
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42510#book
 gutenberg_issued: '2013-04-12'
 gutenberg_type: Text
 identifiers:
